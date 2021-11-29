@@ -1,0 +1,11 @@
+def eksempel():
+    calculateInterest(interest, kids, car)
+    kalkulator()
+    print_beregninger(interest, total, termAmount, termArray, amountTermArray, amountDeductionArray,
+                      amountInterestArray)
+    plott_laan(termArray, amountDeductionArray, amountInterestArray, termAmount)
+
+moneyArray = [2000000, 10, 0, False, False, 5.0]
+kalkulator(moneyArray)
+
+eksempel()
